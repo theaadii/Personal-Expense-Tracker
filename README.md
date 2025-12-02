@@ -42,18 +42,19 @@ Before running the project, ensure you have:
    java ExpenseTracker
 
 ## 📂 Project Structure
-   ```bash
-   ├── ExpenseTracker.java     # Main application source code
-   ├── README.md               # Project documentation
+```bash
+   ├── ExpenseTracker.java     # Main application source code  
+   ├── README.md               # Project documentation  
    └── out/                    # Optional output/compiled directory
+```
 ## 📌 Limitations & Future Improvements
 
-### **Current Limitations**
+### Current Limitations
 - No data persistence (expenses are cleared after exit)
 - No filtering or advanced reporting features
 - Command-line only (no GUI)
 
-### **Future Enhancements**
+### Future Enhancements
 - Add file-based or database storage (CSV, JSON, SQLite)
 - Add category-based and date-range analytics
 - Implement a graphical interface (Swing/JavaFX)
@@ -85,5 +86,3 @@ Contributions are welcome!
 
 This project is open-source.  
 You’re free to use, modify, and distribute it.
-``
-   
